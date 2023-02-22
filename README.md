@@ -2,7 +2,7 @@
 -   这里是一个卷不动，躺不平（仰卧起坐）的运维。
 -   正在努力跟上云原生的步伐！
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" style='float:right; width:350px;height:110 px' />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" style='float:right; width:350px;height:150 px' />
 
 
 ### 🛠 技术栈 | Tech Stack
