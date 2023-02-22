@@ -16,12 +16,8 @@ Here are some ideas to get you started:
 -->
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Timeless0927" /> </div>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Timeless0927)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
