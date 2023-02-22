@@ -2,7 +2,7 @@
 -   这里是一个卷不动，躺不平（仰卧起坐）的运维。
 -   正在努力跟上云原生的步伐！
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" style='float:right; width:300px;height:100 px' />
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -12,6 +12,6 @@
 [![Git](https://img.shields.io/badge/-Git-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
 
 ---
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Timeless0927&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Timeless0927&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
