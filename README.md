@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=Timeless0927" /> </div>
 
-[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Timeless0927)](https://github.com/anuraghazra/github-readme-stats)
+[![Cl0udG0d's github stats](https://github-readme-stats.vercel.app/api?username=Timeless0927&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
